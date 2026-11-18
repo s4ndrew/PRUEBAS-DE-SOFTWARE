@@ -20,7 +20,6 @@ import com.pruebas.repository.InscripcionRepository;
 
 /**
  * Estudiante: Segundo Andres Chiroque Mezones
- * Código: I2024050
  */
 @ExtendWith(MockitoExtension.class)
 class InscripcionServiceTest {
